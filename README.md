@@ -41,7 +41,7 @@ To set up the Hostel Management System locally, follow these steps:
 
 1. Clone the repository:
     bash
-    git clone https://github.com/karthikeyatam/hostel-management-system.git
+    git clone https://github.com/Phaneendra2634/hostel-management-system.git
     
 2. Navigate to the project directory:
     bash
